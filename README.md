@@ -1,7 +1,9 @@
 # hello-world
-just another repository
-Currently at El Camino College, enjoyging learing how to code. 
-I have trouble beliving all this is free.  I've been working with computers for a long time. 
+Just another Repository\
+Currently at El Camino College, enjoyging learing how to code.  
+
+I have trouble beliving all this is free.  I've been working with computers for a long time.  
+
 In the 1980's I spent a bunch of money on software for (editors and compilers) that weren't nearly as good as this. 
 
 
