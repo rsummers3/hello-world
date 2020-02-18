@@ -7,3 +7,5 @@ In the 1980's editors and compilers were expensive, and could be used for a comp
 
 Whelp, it's still here waiting for me to get to work.  Even works at home on an inexpensive chromebook.  Amazing.  
 
+OK, here we are several months later, I have made little progress in progrming per-se but it's not difficult to pick up where  
+I left off. 
